@@ -1,0 +1,7 @@
+*.meta
+*.pidb
+*.unityproj
+*.user
+*.userprefs
+Library/
+obj/
